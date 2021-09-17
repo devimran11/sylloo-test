@@ -1,0 +1,163 @@
+.brackground {
+	background: #87509c;
+}
+.headerare{
+    padding-top: 40px;
+}
+.menu ul li{
+    padding-right: 15px;
+}
+#cls{
+    color: white;
+}
+.menu ul li a{
+    color: white!important;
+}
+.header .button {
+	text-align: center;
+	width: auto;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	margin-top: 80px;
+	padding: 18px 105px;
+	border-bottom: 5px solid #c86a43;
+	background: #eb7d4d;
+	color: #fff;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	margin-bottom: 30px;
+	outline: none;
+}
+.header .button:hover {
+	background: #17c2a4;
+	border-bottom-color: #07997F;
+}
+.service-bg{
+    background: #17c2a4;
+	padding: 110px 0px 110px 0;
+	color: #fff;
+}
+.team-bg{
+	background-color: #E7F1F8;
+}
+.designation{
+	color: #80D7FB;
+	font-size: 20px;
+}
+.social a{
+	background-color: #918F89; 
+	color: white;
+	font-size: 15px;
+	padding: 5px;
+	border-radius: 100%;
+}
+.ccr-skill-bg {
+	text-align: center;
+	color: #111;
+	padding-top: 110px;
+	padding-bottom: 110px;
+}
+#ccr-skill .ccr-line{
+	background: #dfe8ed;
+}
+#ccr-skill .ccr-skill-title h1 {
+	color: #3c4761;
+}
+#ccr-skill .ccr-skill-item {
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+#ccr-skill .ccr-skill-item h3 {
+	color: #3c4761;
+	font-weight: 700;
+}
+
+.tw-circle-chart {
+	position: relative;
+	text-align: center;
+	margin: 0px auto;
+	margin-bottom: 20px;
+}
+.tw-circle-chart canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.protfolio-bg{
+	padding: 80px;
+	background-color: #FFDD99;
+}
+/* -Portfolio
+================================ */
+.ccr-portfolio-bg {
+	background: #ffdd99;
+	padding-top: 110px;
+	padding-bottom: 110px;
+	text-align: center;
+}
+#ccr-portfolio h1 {
+	color: #393939;
+}
+#ccr-portfolio .ccr-line {
+	background: #e5c37f;
+}
+.ccr-portfolio-isotop-menu {
+	padding-top: 30px;
+}
+#ccr-portfolio .ccr-menu {
+	display: inline-block;
+	list-style: none;
+}
+#ccr-portfolio .ccr-menu li {
+	float: left;
+}
+#ccr-portfolio .ccr-menu li {
+	background: #ebc985;
+	padding: 2px 14px;
+	margin-right: 5px;
+	color: #111;
+	text-transform: uppercase;
+	border-radius: 4px;
+}
+#ccr-portfolio .ccr-menu li:hover {
+	text-decoration: none;
+}
+
+#ccr-portfolio .ccr-portfolio-item {
+	margin-top: 50px;
+}
+#ccr-portfolio .ccr-portfolio-item li {
+	display: block;
+	padding-bottom: 30px;
+	color: #222;
+}
+#ccr-portfolio .ccr-portfolio-item h3 {
+	color: #222;
+}
+#ccr-portfolio .ccr-button {
+	background: #17c2a4;
+	border-bottom: 5px solid #14a58c;
+	color: #fff;
+}
+#ccr-portfolio .ccr-button:hover {
+	background: #87509c;
+	border-bottom: 5px solid #4F076B;
+}
+.about-bg{
+	padding: 150px;
+	background-color: #D74680;
+}
+.text-line p{
+	color: #FFDD92;
+}
+.touch-bg{
+	background-color: #3C5499;
+	padding: 50px;
+	color: white;
+	text-align: center;
+}
+.footer-bg{
+	background-color: #344BBE;
+}
